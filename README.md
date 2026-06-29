@@ -1,4 +1,4 @@
-# ConfSelection
+# ConfSelection: Conformal Selection for Treatment Beneficiaries using Auxiliary External Data
 This repository contains the R simulation code to support the methodology presented in "A Conformal Selection Framework for Individual Treatment Beneficiaries with Auxiliary External Data". The goal is to identify candidate patients who are likely to benefit from treatment while accounting for uncertainty in estimated individual treatment effects and False discovery rate (FDR) control.
 
 ## Repository Structure
